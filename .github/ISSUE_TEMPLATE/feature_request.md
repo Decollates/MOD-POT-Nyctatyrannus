@@ -1,20 +1,28 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Mod Suggestion
+about: Feedback on a Feature to be Improved or Added
 title: ''
-labels: ''
+labels: Suggestion
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+```
+Have you checked to see if this suggestion has already been made?
+```
+Yes/No.
 
-**Describe the solution you'd like**
+```
+What is your suggestion about?
+```
+Model? Animations? Textures/maps? Sounds? Controls? Mod Features?
+
+```
+Describe the cause for your suggestion?
+```
 A clear and concise description of what you want to happen.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
+```
+Additional context
+```
 Add any other context or screenshots about the feature request here.
