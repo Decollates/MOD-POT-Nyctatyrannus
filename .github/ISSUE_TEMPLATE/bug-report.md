@@ -2,7 +2,7 @@
 name: Bug Report
 about: 'Issue with the mod itself. '
 title: "[ISSUE] "
-labels: ''
+labels: Bug/Issue Reported
 assignees: ''
 
 ---
